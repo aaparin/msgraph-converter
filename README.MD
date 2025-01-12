@@ -49,7 +49,7 @@ Note: These permissions are required for the application to work with files and 
 1. Clone the repository:
 ```bash
 git clone https://github.com/aaparin/msgraph-converter.git
-cd docx-pdf-converter
+cd msgraph-converter
 ```
 
 2. Copy the environment file:
